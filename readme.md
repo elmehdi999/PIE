@@ -56,7 +56,6 @@ Saturation du rapport signal-sur-bruit (SNR) du récepteur cible.
 Sur un drone type Furtif IRDRONE, cela entraîne la perte du flux vidéo puis le déclenchement de la procédure de sécurité (Return to Home ou atterrissage d'urgence).
 
 📂 Structure du projet
-Plaintext
 📦 CyberSTAT
  ┣ 📂 data                   # Dossiers des logs CSV
  ┣ 📜 scanner_5ghz.py        # Script d'interception principale
